@@ -1,15 +1,12 @@
 {
     "id": 99023915,
-    "name": "Tax Evasion Wav Easy",
+    "name": "Tax Evasion Wave Easy",
     "author": "miUzoo1",
     "creators": ["miUzoo1"],
     "verifier": "miUzoo1",
     "verification": "Unavailable",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-        {
-        
-        }
     ]
 }
